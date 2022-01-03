@@ -14,7 +14,7 @@ Product-based filtering, on the other hand, is a method that detects product sim
 
  There are 3 separate csvs named book rating and users.
 
- Size of dataset : (1032345, 12
+ Size of dataset : (1032345, 12)
  
  https://www.kaggle.com/sebnemgurek/book-item-based-collaborative-filtering/data 
 
